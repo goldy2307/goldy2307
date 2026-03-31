@@ -14,9 +14,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=🚀+Java+Backend+Developer;☁️+Cloud+%7C+Microservices+%7C+REST+APIs;📐+System+Design+%7C+DSA+Enthusiast;💡+Building+Scalable+%26+Reliable+Systems;🎓+B.Tech+CSE+%2726+%7C+Open+to+SDE+Roles" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Java+Backend+Developer+%F0%9F%9A%80;Cloud+%7C+Microservices+%7C+REST+APIs;System+Design+%7C+DSA+Enthusiast;Building+Scalable+%26+Reliable+Systems;B.Tech+CSE+%2726+%7C+Open+to+SDE+Roles" alt="Typing SVG" />
 
 <br/>
 
